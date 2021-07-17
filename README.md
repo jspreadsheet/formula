@@ -28,6 +28,8 @@ This plugin is distributed in two different versions: basic and premium.<br><br>
 </tbody>
 </table>
 
+<br>
+
 <h2>Compatibility</h2>
 
 This software can be used stand-alone or integrated with Jspreadsheet CE, BASE, and PRO.<br><br>
