@@ -16,7 +16,6 @@ This plugin is distributed in two different versions: basic and premium.<br><br>
 </thead>
 <tbody>
 <tr><td>License</td><td align='center'>MIT</td><td align='center'>Required a license</td></tr>
-<tr><td>Pricing</td><td align='center'>Free</td><td align='center'>180 GBP</td></tr>
 <tr><td>Scope</td><td align='center'>window</td><td align='center'>restricted scope</td></tr>
 <tr><td>Parser</td><td align='center'>new Function</td><td align='center'>Custom parser</td></tr>
 <tr><td>JavaScript precision issues</td><td align='center'>No</td><td align='center'>Yes</td></tr>
